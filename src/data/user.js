@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 const username = "Liza";
 const city = "New York";
 
